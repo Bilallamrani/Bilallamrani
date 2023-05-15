@@ -9,7 +9,7 @@
 
 - 🤝 I'm seeking hands-on experience to enhance my skills and deepen my knowledge in various aspects of web development.
 
-- 🌱 I’m currently learning **React, Typescript**
+- 🌱 I’m currently learning **React** and **Typescript**
 
 - 📫 How to reach me **bilal-lamrani@hotmail.com**
 
